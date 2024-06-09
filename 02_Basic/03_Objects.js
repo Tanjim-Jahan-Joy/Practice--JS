@@ -35,4 +35,3 @@ userInfo.greeting2 = function(){
 console.log(userInfo.greeting1) // Don't execute the function only pass the reference
 userInfo.greeting1()
 userInfo.greeting2()
-
